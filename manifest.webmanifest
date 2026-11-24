@@ -1,0 +1,9 @@
+{
+  "name": "GrowthOS Career & Life Tracker",
+  "short_name": "GrowthOS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#101827",
+  "description": "Track your career roadmap, communication skills, health, finances and personal growth."
+}
